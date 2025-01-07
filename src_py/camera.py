@@ -1,5 +1,3 @@
-import torch
-import numpy
 import os
 import platform
 import sys
